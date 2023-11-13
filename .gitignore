@@ -207,3 +207,6 @@ Plots/
 
 # Template Rproj file
 TemplatePortfolioProject.Rproj
+
+# .html
+*.html
